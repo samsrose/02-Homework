@@ -1,6 +1,6 @@
-Responsive/package.json
-Responsive/package-lock.json
-Responsive/gulpfile.js
-Responsive/node_modules
-Responsive/bonus
+**/*.json
+**/*.js
+**/node_modules/
+
+
 
